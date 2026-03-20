@@ -1,6 +1,6 @@
 ===============================================================================
               REAL-TIME GESTURE-BASED VOLUME CONTROLLER
-===============================================================================
+
 A Python application that controls system volume using hand gestures through webcam.
 Built with OpenCV and MediaPipe.
 ===============================================================================
